@@ -33,7 +33,7 @@ This is the first of a few mini-games I am planning to make using Python. Each o
 
 * Now that you have confirmed that Python is installed and working, we can download the program and run it. In order to download the zip file for the program, you can click on the download button below.
 
-    [Download Project](https://github.com/johnDorman98/caesar-cipher/archive/refs/heads/main.zip)
+    [Download Project](https://github.com/johnDorman98/hangman/archive/refs/heads/main.zip)
 
 * In this case, you can choose to extract it where you wish to. Once it has been extracted, open the zipped folder and you will see a folder inside of it. Extract this folder.
 
